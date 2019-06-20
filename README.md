@@ -1,2 +1,2 @@
 # DLND
-Projects from Udacity´s Deep Learning Nanodegree with PyTorch
+Final projects for each of the lessons of Udacity´s Deep Learning Nanodegree with PyTorch.
